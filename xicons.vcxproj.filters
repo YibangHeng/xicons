@@ -21,6 +21,9 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
@@ -29,5 +32,342 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="xicons.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icons\Blue Folder 3d Objects.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder cloud.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder contacts.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder desktop.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder documents.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder downloads.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder drop box.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder favorite.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder folder.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder games.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder google drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder joystick.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder link.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder music.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder pacman.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder Pictures.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder search.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder steam.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder user.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder videos.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Blue Folder zip.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders 3d Objects.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders cloud.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders contacts.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders desktop.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders documents.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders downloads.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders drop box.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders favorite.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders folder.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders games.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders google drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders joystick.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders link.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders music.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders pacman.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders Pictures.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders search.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders steam.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders user.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders videos.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Green Folders zip.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders 3d Objects.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders cloud.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders contacts.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders desktop.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders documents.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders downloads.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders drop box.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders favorite.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders folder.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders games.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders google drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders joystick.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders link.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders music.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders pacman.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders Pictures.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders search.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders steam.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders user.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders videos.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Purple Folders zip.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder 3d Objects.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder cloud.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder contacts.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder desktop.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder documents.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder downloads.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder drop box.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder favorite.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder folder.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder games.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder google drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder joystick.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder link.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder music.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder pacman.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder Pictures.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder search.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder steam.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder user.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder videos.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Slate Folder zip.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder 3d Objects.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder cloud.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder contacts.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder desktop.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder documents.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder downloads.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder drop box.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder favorite.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder folder.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder games.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder google drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder joystick.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder link.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder music.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder pacman.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder Pictures.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder search.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder steam.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder user.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder videos.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icons\Yellow Folder zip.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
